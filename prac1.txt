@@ -3,3 +3,5 @@ this is before initial commit
 before commit 2
 
 before commit 3
+
+after branching and before commit 3 
