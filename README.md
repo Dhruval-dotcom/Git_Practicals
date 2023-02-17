@@ -29,10 +29,10 @@ git merge feature
 
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture1.png?raw=true)
 
-Command Merge
+## Command Merge
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture11.png?raw=true)
 
-Pushing to remote
+## Pushing to remote
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture22.png?raw=true)
 
 
@@ -74,7 +74,7 @@ git rebase feature
 
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture2.png?raw=true)
 
-Comand Rebase
+## Comand Rebase
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture33.png?raw=true)
 
 
@@ -117,7 +117,7 @@ git rebase -i HEAD~3
 
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture3.png?raw=true)
 
-Rebase and after that reword
+## Rebase and after that reword
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture32.png?raw=true)
 
 
@@ -162,7 +162,7 @@ git cherry-pick c2 c3
 
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture4.png?raw=true)
 
-Command cherry-pick
+## Command cherry-pick
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture41.png?raw=true)
 
 
@@ -205,7 +205,7 @@ git reset –hard HEAD~1
 
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture7.png?raw=true)
 
-Command reset
+## Command reset
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture51.png?raw=true)
 
 
