@@ -19,7 +19,7 @@ git merge feature
 ```
 
 
-## Here is strategy of prac
+## Here is Workflow of prac
 
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture1.png?raw=true)
 
@@ -50,7 +50,7 @@ git rebase feature
 ```
 
 
-## Here is strategy of prac
+## Here is Workflow of prac
 
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture2.png?raw=true)
 
@@ -81,7 +81,7 @@ git rebase -i HEAD~3
 ```
 
 
-## Here is strategy of prac
+## Here is Workflow of prac
 
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture3.png?raw=true)
 
@@ -90,7 +90,9 @@ git rebase -i HEAD~3
 
 To run this practical, following commands used majorly
 
-`git merge feature`
+`git commit --amend`
+`git rebase -i HEAD~3
+`
 
 # Practical-4
 
@@ -111,7 +113,7 @@ git cherry-pick c2 c3
 ```
 
 
-## Here is strategy of prac
+## Here is Workflow of prac
 
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture4.png?raw=true)
 
@@ -120,7 +122,7 @@ git cherry-pick c2 c3
 
 To run this practical, following commands used majorly
 
-`git merge feature`
+`git cherry-pick c2 c3`
 
 
 # Practical-5
@@ -142,7 +144,7 @@ git reset –hard HEAD~1
 ```
 
 
-## Here is strategy of prac
+## Here is Workflow of prac
 
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture6.png?raw=true)
 
@@ -153,6 +155,6 @@ git reset –hard HEAD~1
 
 To run this practical, following commands used majorly
 
-`git merge feature`
+`git reset –hard HEAD~1`
 
 
