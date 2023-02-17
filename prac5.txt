@@ -1,5 +1,3 @@
 before initial commit
 
-before commit 1
-
-before commit 2
+c1 in feature

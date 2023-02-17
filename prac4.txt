@@ -1,9 +1,9 @@
 this is prac4 before commit 1
 
-before commit 
+before commit 2 in master
 
-before commit 3
+before c1 in feature
 
-before commit 4
+before c2 in feature
 
-before commit 5
+before c3 in feature

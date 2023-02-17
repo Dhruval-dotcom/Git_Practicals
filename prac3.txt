@@ -1,6 +1,11 @@
-beforr initial commit
-before c2
-before c3
-before c4
-before c5
-before c6
+before initial commit
+
+before commit 2 in master
+
+before commit 1 in feature
+
+before commit 2 in feature
+
+before commit 3 in feature
+
+before commit 4 in feature
