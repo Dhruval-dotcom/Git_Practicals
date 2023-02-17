@@ -61,7 +61,7 @@ git rebase feature
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture2.png?raw=true)
 
 Comand Rebase
-![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture22.png?raw=true)
+![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture33.png?raw=true)
 
 
 ## Environment Variables
@@ -96,7 +96,6 @@ git rebase -i HEAD~3
 
 Rebase and after that reword
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture32.png?raw=true)
-![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture33.png?raw=true)
 
 
 ## Environment Variables
