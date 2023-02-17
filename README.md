@@ -26,6 +26,9 @@ git merge feature
 Command Merge
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture11.png?raw=true)
 
+Pushing to remote
+![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture22.png?raw=true)
+
 
 ## Environment Variables
 
