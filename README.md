@@ -5,6 +5,11 @@
 
 - Make example of pull request and two branch merge event.
 
+# Steps
+- made 5 commits on master branch.
+- checking out to commit 2 and creating feature branch and commiting 1 time.
+- after that after checking out to master ,merged feature branch.
+
 ## Commands used
 
 To run practical, the following commands are used
@@ -43,6 +48,13 @@ To run this practical, following commands used majorly
 
 - Try to rebase feature branch with master branch 
 
+# Steps
+- commiting 4 times in master branch
+- checking out to c2 
+- creating feature branch 
+- checking out to master
+- rebase feature it with main branch.
+
 ## Commands used
 
 To run practical, the following commands are used
@@ -77,6 +89,13 @@ To run this practical, following commands used majorly
 3. Change commit message
 
 - Commit push on commit in feature branch and then change commit message
+
+# Steps
+- commiting two times in master 
+- checking out to feature 
+- commiting 4 times
+- commanded with commit --amend 
+- and rebase -i HEAD~3
 
 ## Commands used
 
@@ -116,6 +135,14 @@ To run this practical, following commands used majorly
 
 - Pick some commits from feature branch to master branch
 
+# Steps
+
+- commiting two times in master 
+- make feature branch 
+- commit 3 times in feature 
+- checkout to master
+- cherry-pick c2 c3 
+
 ## Commands used
 
 To run practical, the following commands are used
@@ -151,6 +178,12 @@ To run this practical, following commands used majorly
 5. Drop commit
 
 - Remove some commit from feature branch.
+
+# Steps
+
+- commit 1 time in master
+- Make feature branch Commit upto 3 times in feature
+- Git reset Hard
 
 ## Commands used
 
