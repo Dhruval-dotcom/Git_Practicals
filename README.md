@@ -10,8 +10,8 @@
 To run practical, the following commands are used
 
 ```bash
-git commit
-git checkout commit2
+git commit #{-upto 5 times}
+git checkout c2
 git checkout -b feature
 git commit
 git checkout master
@@ -22,6 +22,131 @@ git merge feature
 ## Here is strategy of prac
 
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture1.png?raw=true)
+
+
+## Environment Variables
+
+To run this practical, following commands used majorly
+
+`git merge feature`
+
+# Practical-2
+
+2. Rebase
+
+- Try to rebase feature branch with master branch 
+
+## Commands used
+
+To run practical, the following commands are used
+
+```bash
+git commit #{upto 4 times}
+git checkout c2
+git checkout -b feature
+git commit
+git checkout master
+git rebase feature
+```
+
+
+## Here is strategy of prac
+
+![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture2.png?raw=true)
+
+
+## Environment Variables
+
+To run this practical, following commands used majorly
+
+`git merge feature`
+
+# Practical-3
+
+3. Change commit message
+
+- Commit push on commit in feature branch and then change commit message
+
+## Commands used
+
+To run practical, the following commands are used
+
+```bash
+git commit #{2 times in master}
+git checkout -b feature
+git commit #{4 times in feature}
+git commit --amend
+git rebase -i HEAD~3
+# put reword in place of pick edit comment 
+```
+
+
+## Here is strategy of prac
+
+![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture3.png?raw=true)
+
+
+## Environment Variables
+
+To run this practical, following commands used majorly
+
+`git merge feature`
+
+# Practical-4
+
+4. cherry pick
+
+- Pick some commits from feature branch to master branch
+
+## Commands used
+
+To run practical, the following commands are used
+
+```bash
+git commit #{upto 2 times}
+git checkout feature
+git commit #{3 times in feature}
+git checkout master
+git cherry-pick c2 c3
+```
+
+
+## Here is strategy of prac
+
+![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture4.png?raw=true)
+
+
+## Environment Variables
+
+To run this practical, following commands used majorly
+
+`git merge feature`
+
+
+# Practical-5
+
+5. Drop commit
+
+- Remove some commit from feature branch.
+
+## Commands used
+
+To run practical, the following commands are used
+
+```bash
+git commit
+git checkout -b feature
+git commit #{upto 3 times}
+git reset –hard HEAD~1
+git reset –hard HEAD~1
+```
+
+
+## Here is strategy of prac
+
+![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture6.png?raw=true)
+
+![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture7.png?raw=true)
 
 
 ## Environment Variables
