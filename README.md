@@ -10,7 +10,8 @@
 To run practical, the following commands are used
 
 ```bash
-git commit #{-upto 5 times}
+git commit 
+    #{-upto 5 times}
 git checkout c2
 git checkout -b feature
 git commit
@@ -47,7 +48,8 @@ To run this practical, following commands used majorly
 To run practical, the following commands are used
 
 ```bash
-git commit #{upto 4 times}
+git commit 
+    #{upto 4 times}
 git checkout c2
 git checkout -b feature
 git commit
@@ -81,9 +83,11 @@ To run this practical, following commands used majorly
 To run practical, the following commands are used
 
 ```bash
-git commit #{2 times in master}
+git commit 
+    #{2 times in master}
 git checkout -b feature
-git commit #{4 times in feature}
+git commit  
+    #{4 times in feature}
 git commit --amend
 git rebase -i HEAD~3
 # put reword in place of pick edit comment 
@@ -117,9 +121,11 @@ To run this practical, following commands used majorly
 To run practical, the following commands are used
 
 ```bash
-git commit #{upto 2 times}
+git commit 
+    #{upto 2 times}
 git checkout feature
-git commit #{3 times in feature}
+git commit 
+    #{3 times in feature}
 git checkout master
 git cherry-pick c2 c3
 ```
@@ -153,7 +159,8 @@ To run practical, the following commands are used
 ```bash
 git commit
 git checkout -b feature
-git commit #{upto 3 times}
+git commit 
+    #{upto 3 times}
 git reset –hard HEAD~1
 git reset –hard HEAD~1
 ```
