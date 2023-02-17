@@ -5,7 +5,7 @@
 
 - Make example of pull request and two branch merge event.
 
-# Steps
+## Steps
 - made 5 commits on master branch.
 - checking out to commit 2 and creating feature branch and commiting 1 time.
 - after that after checking out to master ,merged feature branch.
@@ -48,7 +48,7 @@ To run this practical, following commands used majorly
 
 - Try to rebase feature branch with master branch 
 
-# Steps
+## Steps
 - commiting 4 times in master branch
 - checking out to c2 
 - creating feature branch 
@@ -90,7 +90,7 @@ To run this practical, following commands used majorly
 
 - Commit push on commit in feature branch and then change commit message
 
-# Steps
+## Steps
 - commiting two times in master 
 - checking out to feature 
 - commiting 4 times
@@ -135,7 +135,7 @@ To run this practical, following commands used majorly
 
 - Pick some commits from feature branch to master branch
 
-# Steps
+## Steps
 
 - commiting two times in master 
 - make feature branch 
@@ -179,7 +179,7 @@ To run this practical, following commands used majorly
 
 - Remove some commit from feature branch.
 
-# Steps
+## Steps
 
 - commit 1 time in master
 - Make feature branch Commit upto 3 times in feature
