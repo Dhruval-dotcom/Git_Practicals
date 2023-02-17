@@ -127,6 +127,9 @@ git cherry-pick c2 c3
 
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture4.png?raw=true)
 
+Command cherry-pick
+![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture41.png?raw=true)
+
 
 ## Environment Variables
 
@@ -159,6 +162,10 @@ git reset –hard HEAD~1
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture6.png?raw=true)
 
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture7.png?raw=true)
+
+Command reset
+![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture51.png?raw=true)
+
 
 
 ## Environment Variables
