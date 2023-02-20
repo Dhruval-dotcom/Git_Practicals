@@ -36,7 +36,7 @@ git merge feature
 ![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture22.png?raw=true)
 
 ## Pulling repo
-![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Picture22.png?raw=true)
+![alt text](https://github.com/Dhruval-dotcom/Git_Practicals/blob/master/picture%20prac/Screenshot%20from%202023-02-20%2010-23-45.png?raw=true)
 
 
 ## Environment Variables
